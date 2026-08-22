@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectTasksOptions">
+    <TaskOptions isEnabled="true">
+      <option name="arguments" value="@tailwindcss/cli -i ./wwwroot/css/input.css -o ./wwwroot/css/app.css" />
+      <option name="checkSyntaxErrors" value="true" />
+      <option name="description" />
+      <option name="exitCodeBehavior" value="ERROR" />
+      <option name="fileExtension" value="cshtml" />
+      <option name="immediateSync" value="true" />
+      <option name="name" value="Tailwind CSS v4" />
+      <option name="output" value="wwwroot/css/app.css" />
+      <option name="outputFilters">
+        <array />
+      </option>
+      <option name="outputFromStdout" value="false" />
+      <option name="program" value="npx" />
+      <option name="runOnExternalChanges" value="true" />
+      <option name="scopeName" value="Project Files Tracked by Git" />
+      <option name="trackOnlyRoot" value="false" />
+      <option name="workingDir" value="" />
+      <envs />
+    </TaskOptions>
+  </component>
+</project>
