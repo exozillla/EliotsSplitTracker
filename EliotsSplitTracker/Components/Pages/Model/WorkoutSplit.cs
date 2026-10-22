@@ -38,6 +38,7 @@ public class WorkoutSplit
         {
             return CurrentSplit.Dequeue();
         }
+        return CurrentSplit.Dequeue();
     }
 
     public void WorkoutDone()

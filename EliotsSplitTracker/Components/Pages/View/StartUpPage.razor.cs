@@ -19,9 +19,9 @@ public partial class StartUpPage
         todaysFocus = split.GetCurrentWorkOut();
     }
 
-    public string getNextFocus()
-    {
-        
-    }
+    // public string getNextFocus()
+    // {
+    //     
+    // }
     
 }
